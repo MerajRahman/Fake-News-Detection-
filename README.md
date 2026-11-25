@@ -242,6 +242,6 @@ If you update `cleaned_data.csv` and wish to retrain the model and regenerate `t
 - **Project Name:** Verity Lens — Fake News Detector
 - **Domain:** Artificial Intelligence, Natural Language Processing & Deep Learning
 - **Development Period:** October 2026
-- **Developer:** **Meraj Islam** — *Department of Computer Science and Engineering, Northern University Bangladesh*
+- **Developer:** **Meraj Islam**  Ashraful Alam & Kamrul Hasan — *Department of Computer Science and Engineering, Northern University Bangladesh*
 
 ```
